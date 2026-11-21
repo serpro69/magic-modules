@@ -7,4 +7,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1
 )
 
-require github.com/golang/glog v1.2.0
+require github.com/golang/glog v1.2.4
